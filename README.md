@@ -1,1 +1,1 @@
-# my-first-project
+cd path/to/your/project/folder
